@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+p {
+    color: #138D75;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding : auto;
+    background-color: #99DFBC;
+}
+
+.Title {
+    color: #138D75 ;
+    font-size: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #F7E5EE;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #138D75;
+}
+
+ul {
+    color: white;
+    background-color: #99DFBC;
+    display: flex;
+    flex-direction: row;
+}
+
+ul > li {
+    margin: 18px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 25%;
+    width: 850px;
+    height: 250px;
+}
